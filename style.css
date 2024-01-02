@@ -79,6 +79,7 @@ p {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  transition: .3s;
 }
 
 .info {
